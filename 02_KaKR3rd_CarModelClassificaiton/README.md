@@ -11,7 +11,7 @@ Deeperence 멱살스터디 두 번째 시간입니다! <br>
 - 지난 스터디 복습하기<br>
   - 1. MNIST: https://colab.research.google.com/drive/1ygxE9jzh3PtU05O9zCaQ8Sc-WvuXSOpn <br>  
  <br>
-<i>Written by Myeong-Gyu.LEE, 2020-11-20</i>
+<i>Written by Myeong-Gyu.LEE, 2020-12-20</i>
 </blockquote>
 </blockquote>
 <br>
