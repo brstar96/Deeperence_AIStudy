@@ -17,16 +17,22 @@ MNIST 데이터셋을 활용한 손글씨 분류 문제는 0부터 9까지의 �
 </blockquote>
 <br>
 
-<tr><td>
+
+
+<table align="center">
+<tbody><tr><td>
+  <center>
   <a target="_blank" href="https://colab.research.google.com/drive/1ygxE9jzh3PtU05O9zCaQ8Sc-WvuXSOpn?usp=sharing">
-    <img src="https://camo.githubusercontent.com/dfbf50eed8dd2dea5f3e0beaaf2001eeca77f314/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f636f6c61625f6c6f676f5f333270782e706e67" data-canonical-src="https://www.tensorflow.org/images/colab_logo_32px.png">Google Colab에서 열기
+    <img src="https://camo.githubusercontent.com/dfbf50eed8dd2dea5f3e0beaaf2001eeca77f314/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f636f6c61625f6c6f676f5f333270782e706e67" data-canonical-src="https://www.tensorflow.org/images/colab_logo_32px.png"><br>Google Colab에서 열기
   </a>
+  </center>
 </td>
+    
 <td>
-  <a target="_blank" href="https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb">
-    <img width="32px" src="https://camo.githubusercontent.com/9a6bfd119aeed95f13553a994f2d1cd97e033768/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f4769744875622d4d61726b2d333270782e706e67" data-canonical-src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">GitHub에서 노트북 열기</a>
+  <a target="_blank" href="https://github.com/brstar96/Deeperence_AIStudy/blob/master/01_MNIST_Classification/01_MNIST_Classification.ipynb">
+    <img width="32px" src="https://camo.githubusercontent.com/9a6bfd119aeed95f13553a994f2d1cd97e033768/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f4769744875622d4d61726b2d333270782e706e67" data-canonical-src="https://www.tensorflow.org/images/GitHub-Mark-32px.png"><br>GitHub에서 노트북 열기</a>
 </td>
-</tr>
+</tr></tbody></table>
 
 <br>
 
