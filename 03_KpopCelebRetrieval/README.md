@@ -3,7 +3,7 @@ Deeperence 멱살스터디 세 번째 시간입니다! 이번 시간에는 지�
 
 <blockquote>
 <b>Deeperence 멱살 스터디는...</b><br>
-숭실대학교 머신러닝 소모임 Deeperence에서 진행하는 'Vision AI 멱살 스터디'는 처음 비전 인공지능에 입문하신 분들을 대상으로 한달간 다양한 태스크(Classification, Detection, Segmentation etc...)를 속성으로 경험시켜 드리는 스터디입니다. 이름 그대로 멱살을 잡아끄는 듯한 초밀착 멘토링으로 가려운 곳을 시원하게 긁어 드립니다. (이 튜토리얼은 Deeperence, 강남 캐글스터디 초급to고급, 제 <a href = "https://brstar96.github.io/">개인 블로그</a>에 연재됩니다.)<br><br>
+숭실대학교 머신러닝 소모임 Deeperence에서 진행하는 'Vision AI 멱살 스터디'는 처음 비전 인공지능에 입문하신 분들을 대상으로 한달간 다양한 태스크를 속성으로 경험시켜 드리는 스터디입니다. 이름 그대로 멱살을 잡아끄는 듯한 초밀착 멘토링으로 가려운 곳을 시원하게 긁어 드립니다. (이 튜토리얼은 Deeperence, 제 <a href = "https://brstar96.github.io/">개인 블로그</a>에 연재됩니다.)<br><br>
 - 지난 스터디 복습하기<br>
   - 1. MNIST: https://colab.research.google.com/drive/1ygxE9jzh3PtU05O9zCaQ8Sc-WvuXSOpn <br>
   - 2. KaKR 3rd 자동차 분류대회: https://colab.research.google.com/drive/1p5GEx8UzGcBu-Nxjd8XxYQTBYh0Xlk8h  
